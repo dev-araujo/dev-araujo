@@ -8,6 +8,7 @@
 Olá, meu nome é Adriano e sou desenvolvedor Front-End, manjo de **HTML**, **CSS**,**JS**, e **React**, também tenho experiência com **Angular 12**, **SASS**, **Bootstrap**, com o uso **Metodologia Ágil (Scrum)** e plataformas de versionamento de código : **GitHub** e **BitBucket**.
 
 ### Alguns repositórios importantes:
+- [Índice - acesso fácil à **todos** os meus códigos](https://github.com/dev-araujo/Index)
 - [Projetos](https://github.com/dev-araujo/projetos)
 - [Desafios e testes técnicos](https://github.com/dev-araujo/desafios)
 
