@@ -12,6 +12,7 @@ Olá, meu nome é Adriano e sou desenvolvedor Front-End, manjo de **HTML**, **CS
 ### Alguns repositórios importantes:
 - [Índice - acesso fácil à **todos** os meus códigos](https://github.com/dev-araujo/Index)
 - [Projetos](https://github.com/dev-araujo/projetos)
+- [FreeCodeCamp](https://github.com/dev-araujo/FreeCodeCamp)
 - [Desafios e testes técnicos](https://github.com/dev-araujo/desafios)
 
 
