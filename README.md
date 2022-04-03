@@ -7,7 +7,9 @@
 
 ---
 
-Olá, meu nome é Adriano e sou desenvolvedor Front-End, manjo de **HTML**, **CSS**,**JS**, e **React**, também tenho experiência com **Angular 12**, **SASS**, **Bootstrap**, com o uso **Metodologia Ágil (Scrum)** e plataformas de versionamento de código : **GitHub** e **BitBucket**.
+Olá, meu nome é [**Adriano**](https://dev-araujo.com.br/) e sou desenvolvedor Front-End, manjo de **HTML**, **CSS**,**JS**, e **React**, também tenho experiência com **Angular 12**, **SASS**, **Bootstrap**, com o uso **Metodologia Ágil (Scrum)** e plataformas de versionamento de código : **GitHub** e **BitBucket**.
+
+Atualmente sou colaborador(traduzindo e revisando conteúdo) e entusiasta da comunidade [**web3dev**](https://www.web3dev.com.br/)
 
 
 ### Alguns repositórios importantes:
