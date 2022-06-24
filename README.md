@@ -3,13 +3,13 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://dev-araujo.com.br/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/araujocode/)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/araujo6_6)
-[![codeWars](https://img.shields.io/badge/CodeWars-B1361E?style=for-the-badge&logo=codewars&logoColor=#B1361E)](https://www.codewars.com/users/dev-araujo)
+
 
 ---
 
-Olá, meu nome é [**Adriano**](https://dev-araujo.com.br/) e sou desenvolvedor Front-End, manjo de **HTML**, **CSS**,**JS**, e **React**, também tenho experiência com **Angular 2+**, **SASS**, **Bootstrap**, com o uso **Metodologia Ágil (Scrum)** e plataformas de versionamento de código : **GitHub** e **BitBucket**.
+Olá, meu nome é [**Adriano**](https://dev-araujo.com.br/) e sou desenvolvedor Front-End, manjo de **HTML**, **CSS**,**JavaScript**, **TypeScript**, e **React**, também tenho experiência com **Angular 2+**, **SASS**, **Bootstrap**, com o uso **Metodologia Ágil (Scrum)** (tanto utilizando o **Jira** quanto o **Azure DevOps**), e com plataformas de versionamento de código : **GitHub**,**BitBucket**, **GitLab**.
 
-Atualmente sou colaborador(traduzindo/revisando conteúdo) e entusiasta da comunidade [**web3dev**](https://www.web3dev.com.br/)
+Atualmente faço parte do time de desenvolvimento da [Enacom](https://www.linkedin.com/company/enacomgroup/mycompany/), além disso sou colaborador(traduzindo e revisando conteúdo) na comunidade [**web3dev**](https://www.web3dev.com.br/)!
 
 
 ### Alguns repositórios importantes:
