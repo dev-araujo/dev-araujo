@@ -15,7 +15,6 @@ Atualmente sou desenvolvedor Front-end na [Enacom](https://www.linkedin.com/comp
 ### Alguns repositórios importantes:
 - [Índice - acesso fácil à **todos** os meus códigos ⭐](https://github.com/dev-araujo/Index)
 - [Projetos](https://github.com/dev-araujo/projetos)
-- [FreeCodeCamp](https://github.com/dev-araujo/FreeCodeCamp)
 - [Desafios e testes técnicos](https://github.com/dev-araujo/desafios)
 
 
