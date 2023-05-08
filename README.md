@@ -6,6 +6,7 @@
 
 
 ---
+Currículo [aqui](https://drive.google.com/file/d/1JnRykhkH54rDT2JoldqZcxKHRDrNzDY7/view?usp=share_link)
 
 Olá, meu nome é [**Adriano**](https://dev-araujo.com.br/) e sou desenvolvedor Front-End, manjo de **HTML**, **CSS**,**JavaScript**, **TypeScript**,**Angular 2+**, **Testes unitários** e **React**, também tenho experiência com , **SCSS**, **Bootstrap**, com o uso **Metodologia Ágil (Scrum)** (tanto utilizando o **Jira** quanto o **Azure DevOps**), e com plataformas de versionamento de código : **GitHub**,**BitBucket**, **GitLab**.
 
