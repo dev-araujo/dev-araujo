@@ -14,14 +14,5 @@ Currículo [aqui](https://drive.google.com/file/d/1JnRykhkH54rDT2JoldqZcxKHRDrNz
 Atualmente sou desenvolvedor Front-end na [Enacom](https://www.linkedin.com/company/enacomgroup/mycompany/) e faço parte do time de tradução e revisão na [**web3dev**](https://www.web3dev.com.br/)! (uma comunidade aberta para profissionais de tecnologia que desejam aprender e trabalhar com web3 ).
 
 
-### Alguns repositórios importantes:
-- [Índice - acesso fácil à **todos** os meus códigos ⭐](https://github.com/dev-araujo/Index)
-- [Projetos pessoais](https://github.com/dev-araujo/projetos)
-- [Desafios e testes técnicos](https://github.com/dev-araujo/desafios)
-
-
-
-
-
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-araujo)
