@@ -9,7 +9,7 @@
 
 Olá, meu nome é [**Adriano**](https://dev-araujo.com.br/) e sou desenvolvedor Front-End, manjo de **HTML**, **CSS**,**JavaScript**, **TypeScript**,**Angular 2+**, **Testes unitários** e **React**, também tenho experiência com , **SCSS**, **Bootstrap**, com o uso **Metodologia Ágil (Scrum)** (tanto utilizando o **Jira** quanto o **Azure DevOps**), e com plataformas de versionamento de código : **GitHub**, **GitLab**.
 
-Currículo [aqui](https://drive.google.com/file/d/1JnRykhkH54rDT2JoldqZcxKHRDrNzDY7/view?usp=share_link)
+
 
 Atualmente sou desenvolvedor Front-end na [Enacom](https://www.linkedin.com/company/enacomgroup/mycompany/) e faço parte do time de tradução e revisão na [**web3dev**](https://www.web3dev.com.br/)! (uma comunidade aberta para profissionais de tecnologia que desejam aprender e trabalhar com web3 ).
 
