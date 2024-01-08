@@ -15,4 +15,4 @@ Atualmente sou desenvolvedor Front-end na [Enacom](https://www.linkedin.com/comp
 
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-araujo)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-araujo&langs_count=10)
