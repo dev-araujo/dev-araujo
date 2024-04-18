@@ -1,4 +1,4 @@
-# Adriano P. Araujo - [Dev. Front-End] <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
+# 🚀 DESENVOLVEDOR FRONT-END | Aficionado por Angular
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://dev-araujo.com.br/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/araujocode/)
@@ -7,11 +7,15 @@
 
 ---
 
-Olá, meu nome é [**Adriano**](https://dev-araujo.com.br/) e sou desenvolvedor Front-End, manjo de **HTML**, **CSS**,**JavaScript**, **TypeScript**,**Angular 2+**, **Testes unitários** e **React**, também tenho experiência com , **SCSS**, **Bootstrap**, com o uso **Metodologia Ágil (Scrum)** (tanto utilizando o **Jira** quanto o **Azure DevOps**), e com plataformas de versionamento de código : **GitHub**, **GitLab**.
 
+Olá, meu nome é [**Adriano**](https://dev-araujo.com.br/) e sou desenvolvedor **Front-End**, manjo de **HTML**, **CSS**, **SCSS**, **Bootstrap**, **JavaScript**, **TypeScript**, **Angular 2+** e **Testes Unitários**. Também tenho experiência com **React**, e interesses em **Docker**, **Python**, **Node.js** e **Go**.
 
+Atuo de maneira ágil (**Scrum**), utilizando ferramentas como **Azure DevOps**, **Trello** e **Jira**, e tenho experiências em plataformas de versionamento como **GitHub**, **BitBucket** e **GitLab**.
 
-Atualmente sou desenvolvedor Front-end na [Enacom](https://www.linkedin.com/company/enacomgroup/mycompany/) e faço parte do time de tradução e revisão na [**web3dev**](https://www.web3dev.com.br/)! (uma comunidade aberta para profissionais de tecnologia que desejam aprender e trabalhar com web3 ).
+Atualmente, sou Desenvolvedor Front-End na [Enacom](https://www.enacom.com.br/), contribuindo para soluções web de alto desempenho (já colaborei em projetos para empresas como [Gerdau](https://www2.gerdau.com.br/), [Aliança Energia](https://aliancaenergia.com.br/) e [VLI](https://www.vli-logistica.com.br/)).
+
+Paralelamente a isso, também faço parte do time de tradução e revisão na [web3dev](https://www.web3dev.media/) (uma comunidade aberta para profissionais de tecnologia que desejam aprender e trabalhar com **web3** e tecnologias **blockchain** ).
+
 
 
 
