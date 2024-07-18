@@ -18,5 +18,4 @@ Paralelamente a isso, também faço parte do time de tradução e revisão na [w
 
 
 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-araujo&theme=default)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-araujo&langs_count=10)
