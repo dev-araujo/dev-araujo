@@ -8,7 +8,7 @@
 ---
 
 
-Olá, meu nome é [**Adriano**](https://dev-araujo.com.br/) e sou desenvolvedor **Front-End**, manjo de **HTML**, **CSS**, **SCSS**, **Bootstrap**, **JavaScript**, **TypeScript**, **Angular 2+** e **Testes Unitários**. Também tenho experiência  com **React**, e conhecimento em **Docker**, **Python**, **Node.js** e **Go**.
+Olá, meu nome é [**Adriano**](https://dev-araujo.com.br/) e sou desenvolvedor **Front-End**, manjo de **HTML**, **CSS**, **SCSS**, **Bootstrap**, **JavaScript**, **TypeScript**, **Angular 2+** e **Testes Unitários**. Também tenho experiência  com **React**, e conhecimento e interesse em **Docker**, **Python**, **Node.js** e **Go**.
 
 Atuo de maneira ágil (**Scrum**), utilizando ferramentas como **Azure DevOps**, **Trello** e **Jira**, e tenho experiências em plataformas de versionamento como **GitHub**, **BitBucket** e **GitLab**.
 
