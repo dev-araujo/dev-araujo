@@ -1,4 +1,5 @@
-# 🚀 DESENVOLVEDOR FRONT-END | Aficionado por Angular
+# 🚀 🧑‍💻 Desenvolvedor Front-End com expertise em Angular, React e TypeScript.
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://dev-araujo.com.br/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/araujocode/)
@@ -7,17 +8,15 @@
 
 ---
 
+Olá, meu nome é [**Adriano**](https://dev-araujo.com.br/) e sou desenvolvedor **Front-End** e minha expertise abrange um conjunto sólido de tecnologias, incluindo **HTML**, **CSS**, **Sass**, **Bootstrap**, **JavaScript**, **TypeScript**, **Angular 2+** e **Testes Unitários**. Tenho um domínio em **Angular** e experiência com **React**, além de conhecimentos em **Docker**, **Python**, **Node.js** e **Go**, que me permitem transitar por diferentes stacks e contribuir em projetos desafiadores.
 
-Olá, meu nome é [**Adriano**](https://dev-araujo.com.br/) e sou desenvolvedor **Front-End**, manjo de **HTML**, **CSS**, **SCSS**, **Bootstrap**, **JavaScript**, **TypeScript**, **Angular 2+** e **Testes Unitários**. Também tenho experiência  com **React**, e conhecimento e interesse em **Docker**, **Python**, **Node.js** e **Go**.
+🎯 Ao longo de minha carreira, trabalhei em projetos de grande escala para empresas renomadas como Gerdau, Aliança Energia e Vli, onde aprimorei minhas habilidades em **desenvolvimento ágil (Scrum)** e **colaboração** em equipe, utilizando ferramentas como **Azure DevOps**, **Trello** e **Jira**. Sou proficiente em plataformas de versionamento como **GitHub**, **BitBucket** e **GitLab**, garantindo a organização e a qualidade do código.
 
-Atuo de maneira ágil (**Scrum**), utilizando ferramentas como **Azure DevOps**, **Trello** e **Jira**, e tenho experiências em plataformas de versionamento como **GitHub**, **BitBucket** e **GitLab**.
+🌐 Além do meu trabalho como desenvolvedor, sou um membro ativo em comunidades web3/blockchain, dedicando meu tempo à tradução e revisão de conteúdos sobre **web3** e tecnologias **blockchain**. Acredito no poder da colaboração e do compartilhamento de conhecimento para impulsionar a inovação.
 
-Atualmente, sou Desenvolvedor Front-End na [Enacom](https://www.enacom.com.br/), contribuindo para soluções web de alto desempenho (já colaborei em projetos para empresas como [Gerdau](https://www2.gerdau.com.br/), [Aliança Energia](https://aliancaenergia.com.br/) e [VLI](https://www.vli-logistica.com.br/)).
 
-Paralelamente a isso, também faço parte do time de tradução e revisão na [web3dev](https://www.web3dev.media/) (uma comunidade aberta para profissionais de tecnologia que desejam aprender e trabalhar com **web3** e tecnologias **blockchain** ).
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-araujo&layout=compact&langs_count=7&theme=transparent"/> 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-araujo&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-
