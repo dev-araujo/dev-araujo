@@ -15,7 +15,6 @@ Olá, meu nome é [**Adriano**](https://dev-araujo.com.br/) e sou desenvolvedor 
 🌐 Além do meu trabalho como desenvolvedor, sou um membro ativo em comunidades web3/blockchain, dedicando meu tempo à tradução e revisão de conteúdos sobre **web3** e tecnologias **blockchain**. Acredito no poder da colaboração e do compartilhamento de conhecimento para impulsionar a inovação.
 
 
-
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-araujo&layout=compact&langs_count=7&theme=transparent"/> 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-araujo&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github"/>
