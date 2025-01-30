@@ -1,4 +1,4 @@
-# 🚀 🧑‍💻 Desenvolvedor Full Stack | Web3 | Angular, React, Solidity, Node.js
+# 🚀 🧑‍💻 Desenvolvedor Full Stack | Web3 |
 
 
 
