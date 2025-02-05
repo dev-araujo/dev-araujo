@@ -24,4 +24,7 @@
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-araujo&layout=compact&langs_count=7&theme=transparent"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-araujo&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+
+
+
+![dev-araujo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-araujo&show_icons=true&theme=radical&count_private=true&rank_icon=github)
