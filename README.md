@@ -22,9 +22,9 @@
 
 
 
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-araujo&layout=compact&langs_count=7&theme=transparent"/> 
+<img src='https://camo.githubusercontent.com/5cf235b1041aca30fe096b2a28edf634d425465ac3a8668b6ac3080674f3fc93/68747470733a2f2f6173736574732e706f61702e78797a2f676974706f617033612d323032352d657468657265756d6f72672d636f6e7472696275746f722d323032352d6c6f676f2d313733363434383133383633302e77656270' width=220/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-araujo&layout=compact&langs_count=7&theme=transparent"/> 
 
 
 
 ![dev-araujo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-araujo&show_icons=true&theme=radical&count_private=true&rank_icon=github)
+
