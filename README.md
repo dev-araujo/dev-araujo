@@ -1,4 +1,4 @@
-# 🚀 🧑‍💻 Desenvolvedor Full Stack | Web3 |
+# 🚀 🧑‍💻 Desenvolvedor Front-End (Angular/React) | Full Stack (Node.js) | Blockchain | Web3
 
 
 
@@ -10,7 +10,7 @@
 ---
 
 
-💡 Sou desenvolvedor **Full Stack** com experiência em **desenvolvimento web**, com contribuições em projetos de grande escala para empresas como Gerdau, Aliança Energia e Vli, utilizando **Angular**, **React** e **TypeScript**.
+💡 Sou desenvolvedor **Front-end** com experiência em **desenvolvimento web**, com contribuições em projetos de grande escala para empresas como Gerdau, Aliança Energia e Vli, utilizando **Angular**, **React** e **TypeScript**.
 
 🛠️ Domínio e habilidade com **HTML**, **CSS**, **Sass**, **Bootstrap**, **JavaScript**, **TypeScript**, **Angular 2+**, **Testes Unitários**, **Docker**, **Python**, **Node.js**, **Go** e **Solidity**.
 
