@@ -16,7 +16,7 @@
 
 ⚙️ Experiente no trabalho com desenvolvimento ágil (**Scrum**) e colaborativo, com conhecimento em ferramentas como **Azure DevOps**, **Trello**,**Jira**, **GitHub**, **BitBucket** e **GitLab**.
 
-🌐 Entusiasta da **Web3** e **Blockchain**, contribuindo ativamente para comunidades e projetos inovadores no ecossistema cripto.
+🌐 Atuando e aprendendo sobre **Web3** e **Blockchain**, contribuindo ativamente para comunidades e projetos inovadores no ecossistema cripto.
  
 🔗 Conheça meu portfólio [**aqui ⭐**](https://dev-araujo.com.br/)
 
