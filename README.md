@@ -14,7 +14,7 @@
 
 ⛓️ **Web3**: Contribuí por 2 anos na comunidade web3dev (tradução de conteúdo complexo e ajudando a criar plataforma de cursos) e hoje aplico meus conhecimentos no ecossistema **Ethereum/EVM** com **Solidity** para construir **dApps** e apoiar a comunidade como posso .
 
-🛠️ **Habilidades**: Curto muito **Angular**, Solidity**, **TypeScript**, **React**, **Node.js**, **Docker** e **Git**. Tenho experiência com **Scrum**, **testes**, e ferramentas como **Azure DevOps/Jira**. Estou aprendendo **Go**!
+🛠️ **Habilidades**: Curto muito **Angular**, **Solidity**, **TypeScript**, **React**, **Node.js**, **Docker** e **Git**. Tenho experiência com **Scrum**, **testes**, e ferramentas como **Azure DevOps/Jira**. Estou aprendendo **Go**!
  
 🔗 Conheça meu portfólio [**aqui ⭐**](https://dev-araujo.com.br/)
 
