@@ -1,4 +1,4 @@
-# 🚀 🧑‍💻 Desenvolvedor Front-End (Angular/React) | Full Stack (Node.js) | Blockchain | Web3
+# 🚀 🧑‍💻 Desenvolvedor Front-End Angular & Web3 com Solidity | Blockchain
 
 
 
@@ -10,13 +10,11 @@
 ---
 
 
-💡 Sou desenvolvedor **Front-end** com experiência em **desenvolvimento web**, com contribuições em projetos de grande escala para empresas como Gerdau, Aliança Energia e Vli, utilizando **Angular**, **React** e **TypeScript**.
+💻 **Front-End**: Entreguei apps Angular robustos para grandes clientes (Gerdau, Vli, Aliança, via Enacom) e modernizei a UI de fintech (Paytime), migrando **React** p/ **Angular 12**. Foco em qualidade e UX.
 
-🛠️ Domínio e habilidade com **HTML**, **CSS**, **Sass**, **Bootstrap**, **JavaScript**, **TypeScript**, **Angular 2+**, **Testes Unitários**, **Docker**, **Python**, **Node.js**, **Go** e **Solidity**.
+⛓️ **Web3**: Contribuí por 2 anos na comunidade web3dev (tradução de conteúdo complexo e ajudando a criar plataforma de cursos) e hoje aplico meus conhecimentos no ecossistema **Ethereum/EVM** com **Solidity** para construir **dApps** e apoiar a comunidade como posso .
 
-⚙️ Experiente no trabalho com desenvolvimento ágil (**Scrum**) e colaborativo, com conhecimento em ferramentas como **Azure DevOps**, **Trello**,**Jira**, **GitHub**, **BitBucket** e **GitLab**.
-
-🌐 Atuando e aprendendo sobre **Web3** e **Blockchain**, contribuindo ativamente para comunidades e projetos inovadores no ecossistema cripto.
+🛠️ **Habilidades**: Curto muito **Angular**, Solidity**, **TypeScript**, **React**, **Node.js**, **Docker** e **Git**. Tenho experiência com **Scrum**, **testes**, e ferramentas como **Azure DevOps/Jira**. Estou aprendendo **Go**!
  
 🔗 Conheça meu portfólio [**aqui ⭐**](https://dev-araujo.com.br/)
 
