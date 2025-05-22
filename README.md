@@ -10,7 +10,7 @@
 ---
 
 
-💻 **Front-End**: Entreguei apps Angular robustos para grandes clientes (Gerdau, Vli, Aliança, via Enacom) e modernizei a UI de fintech (Paytime), migrando **React** p/ **Angular 12**. Foco em qualidade e UX.
+💻 **Front-End**: Entreguei apps **Angular** robustos para grandes clientes (Gerdau, Vli, Aliança, via Enacom) e modernizei a UI de fintech (Paytime), migrando **React** p/ **Angular 12**. Foco em qualidade e UX.
 
 ⛓️ **Web3**: Contribuí por 2 anos na comunidade web3dev (tradução de conteúdo complexo e ajudando a criar plataforma de cursos) e hoje aplico meus conhecimentos no ecossistema **Ethereum/EVM** com **Solidity** para construir **dApps** e apoiar a comunidade como posso .
 
