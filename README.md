@@ -19,8 +19,8 @@
 
 
 <span>  
-
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-araujo&layout=compact&langs_count=7&theme=transparent"/> 
+ 
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dev-araujo&show_icons=true&theme=radical&count_private=true&rank_icon=github"/>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-araujo&layout=compact&langs_count=7&theme=transparent"/> 
 
 </span>
