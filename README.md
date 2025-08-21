@@ -5,17 +5,16 @@
 [![HackerRank](https://img.shields.io/badge/-Hackerrank⭐⭐⭐⭐-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/araujo6_6)
 
 
-# Adriano - Desenvolvedor Front-End Angular | React & Web3 com Solidity | Blockchain
+# Desenvolvedor Front-End Angular | React & Web3 com Solidity | Blockchain | Golang
 
-👨🏽 Olá! Sou Dev há mais de **3 anos**, com perfil T: profundo em **Front-End (Angular)** e engajado em **Web3/Blockchain (Solidity)**.
+Desenvolvedor web com mais de 3 anos de experiência, especialista em Front-End com Angular com conhecimento em Backend (Node e Go), Web3 e Blockchain.
 
-💻 **Front-End**: Entreguei apps **Angular** robustos para grandes clientes (Gerdau, Vli, Aliança, via Enacom) e modernizei a UI de fintech (Paytime), migrando **React** p/ **Angular 12**. Foco em qualidade e UX.
+Recentemente atuei no front-end do Bradesco, desenvolvendo soluções para a integração do Drex usando Angular. Anteriormente, já entreguei apps Angular para grandes clientes (Gerdau, Vli, Aliança, via Enacom) e fui responsável pela UI da fintech Paytime, migrando o app de React p/ Angular 12 com foco em qualidade e UX.
 
-⛓️ **Web3**: Contribuí por 2 anos na comunidade web3dev (tradução de conteúdo complexo e ajudando a criar plataforma de cursos) e hoje aplico meus conhecimentos no ecossistema **Ethereum/EVM** com **Solidity** para construir **dApps** e apoiar a comunidade como posso .
+Além do código, contribuí por dois anos na comunidade web3dev, traduzindo conteúdos técnicos complexos e ajudando a construir uma plataforma de cursos para capacitar novos devs nesse mercado ❤️.
 
-🛠️ **Habilidades**: Curto muito **Angular**, **Solidity**, **TypeScript**, **React**, **Node.js**, **Docker** e **Git**. Tenho experiência com **Scrum**, **testes**, e ferramentas como **Azure DevOps/Jira**. Estou aprendendo **Go**!
- 
-🔗 Conheça meu portfólio [**aqui ⭐**](https://dev-araujo.com.br/)
+Minhas principais ferramentas são Angular, TypeScript, Solidity, React e Node.js. Também tenho experiência com metodologias ágeis (Scrum), testes unitários e ferramentas como Azure DevOps e Jira. No momento, estou expandindo meus conhecimentos no back-end com Golang.
+
 
 
 <span>  
