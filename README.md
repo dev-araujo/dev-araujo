@@ -1,11 +1,12 @@
-<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/c8627429-0c94-4099-aa38-470cc2a23453" />
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/d8eceb28-503a-459a-bb8e-dc5cbfe54a61" />
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://dev-araujo.com.br/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/araujocode/)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank⭐⭐⭐⭐-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/araujo6_6)
 
 
-# Desenvolvedor Front-End Angular | React & Web3 com Solidity | Blockchain | Golang
+# Desenvolvedor Front-End Angular
 
 Desenvolvedor web com mais de 3 anos de experiência, especialista em Front-End com Angular com conhecimento em Backend (Node e Go), Web3 e Blockchain.
 
