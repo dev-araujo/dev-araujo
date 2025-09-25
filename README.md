@@ -1,4 +1,5 @@
-<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/d8eceb28-503a-459a-bb8e-dc5cbfe54a61" />
+
+<img width="1465" height="370" alt="image" src="https://github.com/user-attachments/assets/4e4844bf-e7d5-400a-b11a-152722462f4d" />
 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://dev-araujo.com.br/)
@@ -6,9 +7,9 @@
 [![HackerRank](https://img.shields.io/badge/-Hackerrank⭐⭐⭐⭐-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/araujo6_6)
 
 
-# Desenvolvedor Front-End Angular
+# Desenvolvedor Web - Front-End Angular
 
-Desenvolvedor web com mais de **3 anos de experiência**, especialista em **Front-End** com **Angular** com conhecimento em **Backend** (**Node** e **Go**), **Web3** e **Blockchain**.
+Desenvolvedor web com **mais de 3 anos de experiência**, especialista em **Front-End** com **Angular** com conhecimento em **Backend** (**Node** e **Go**), **Web3** e **Blockchain**.
 
 Recentemente  atuei no desenvolvimento web do Bradesco, desenvolvendo soluções para a integração do Drex usando **Angular** e **Solidity**. Anteriormente, já entreguei apps Angular para grandes clientes (Gerdau, Vli, Aliança, via Enacom) e fui responsável pela UI da fintech Paytime, migrando o app de **React p/ Angular 12** com foco em qualidade e UX.
 
