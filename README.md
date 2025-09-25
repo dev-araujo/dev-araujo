@@ -15,7 +15,7 @@ Recentemente  atuei no desenvolvimento web do Bradesco, desenvolvendo soluções
 
 Além do código, **contribuí** por dois anos na **comunidade web3dev**, traduzindo conteúdos técnicos complexos e ajudando a construir uma plataforma de cursos para capacitar novos devs nesse mercado ❤️.
 
-Minhas principais ferramentas são **Angular, TypeScript, Solidity, React e Node.js**. Também tenho experiência com metodologias **ágeis (Scrum)**, **testes unitários** e ferramentas como **Azure DevOps** e **Jira**. No momento, estou expandindo meus conhecimentos no back-end com **Golang**.
+Minhas principais ferramentas são **Angular, TypeScript, Solidity, React e Node.js**. Também tenho experiência com metodologias **ágeis (Scrum)**, **testes unitários** e ferramentas como **Azure DevOps** e **Jira**. No momento, estou expandindo meus conhecimentos no back-end com **Golang** e aprofundando em desenvolvimento **Fullcycle**.
 
 
 
