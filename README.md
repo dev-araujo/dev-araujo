@@ -22,8 +22,14 @@ Minhas principais ferramentas são **Angular, TypeScript, Solidity, React e Node
 
 <span>  
  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dev-araujo&show_icons=true&theme=radical&count_private=true&rank_icon=github"/>
+<a href="https://nice-readme.vercel.app/github-stats" target="_blank" rel="noopener noreferrer">
+<img src="https://helio-github-stats.vercel.app/api?username=dev-araujo&custom_title=GitHub+Stats&theme=default&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Stats" width="466" height="auto" loading="lazy" />
+</a>
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-araujo&layout=compact&hide=ruby,html,scss,css"/>
+<a href="https://nice-readme.vercel.app/top-langs" target="_blank" rel="noopener noreferrer">
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=dev-araujo&layout=normal&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&card_width=466&locale=en&custom_title=Linguagens+mais+usadas&hide=ruby%2Cscss%2Chtml%2Ccss" alt="Linguagens mais usadas" width="466" height="auto" loading="lazy" />
+</a>
 
 </span>
+
+
