@@ -1,5 +1,5 @@
 
-<img width="1465" height="370" alt="image" src="https://github.com/user-attachments/assets/4e4844bf-e7d5-400a-b11a-152722462f4d" />
+<img width="1400" height="350" alt="1755798297853" src="https://github.com/user-attachments/assets/6ca11f4c-1136-4331-b3f4-65f16de62120" />
 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://dev-araujo.vercel.app/)
