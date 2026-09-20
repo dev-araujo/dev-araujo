@@ -8,13 +8,42 @@
 [![HackerRank](https://img.shields.io/badge/-Hackerrank⭐⭐⭐⭐-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/araujo6_6)
 
 
-# Desenvolvedor Web - Front-End Angular
+# Adriano P. Araujo
 
-Desenvolvedor web com **mais de 5 anos de experiência**, especialista em **Front-End** com **Angular** com conhecimento em **Backend** (**Node**, **NestJS** e **Go**), **Web3** e **Blockchain**.
+**Angular Expert · Backend-fluent (Java, Go, Node) · Web3 & AI/RAG**
 
-Recentemente  atuei no desenvolvimento web do Bradesco, desenvolvendo soluções para a integração do Drex usando **Angular** e **Solidity**. Anteriormente, já entreguei apps Angular para grandes clientes (Gerdau, Vli, Aliança, via Enacom) e fui responsável pela UI da fintech Paytime, migrando o app de **React p/ Angular 12** com foco em qualidade e UX.
+5+ years building interfaces where the bug costs money - banking, fintech, blockchain.
 
-Além do código, **contribuí** por dois anos na **comunidade web3dev**, traduzindo conteúdos técnicos complexos e ajudando a construir uma plataforma de cursos para capacitar novos devs nesse mercado ❤️.
+---
 
-Minhas principais ferramentas são **Angular, TypeScript, Solidity, React e Node.js**. Também tenho experiência com metodologias **ágeis (Scrum)**, **testes unitários** e ferramentas como **Azure DevOps** e **Jira**. No momento, estou expandindo meus conhecimentos no back-end com **Golang** e aprofundando em desenvolvimento **Fullcycle**.
+## What I do
 
+Angular is the core. Backend is the complement. Web3 and AI/RAG are the edge.
+
+I build front-ends for systems that handle real money, real contracts, real data. Not landing pages.
+
+## Where I've been
+
+| Company | What I built |
+|---------|-------------|
+| **7COMm** (current) | Drex/Real Digital (Angular + Solidity), Banco Carrefour (fiscal dashboards), 7AIstream (RAG tooling) |
+| **Enacom** | Gerdau, VLI, Aliança → industrial simulation dashboards, SonarQube pipelines |
+| **Paytime** | Migrated React → Angular 12, built the UI from scratch |
+| **web3dev** | 2 years translating blockchain content, building courses for new Web3 devs |
+
+## Stack
+
+```
+Core:       Angular (v2–19) · TypeScript · RxJS · NgRx/Signals
+Web3:       Solidity · Smart Contracts · Ethers.js · DApps
+Backend:    Node.js · Go · NestJS · Java/Spring Boot (learning)
+AI:         Spring AI · Gemini · RAG pipelines
+DevOps:     Docker · Azure DevOps · SonarQube · CI/CD
+Testing:    Jasmine · Jest · coverage as standard, not exception
+```
+
+## Now
+
+Expanding backend with Java/Spring Boot. Deepening AI applied to testing and code generation.
+
+🔗 [dev-araujo.vercel.app](https://dev-araujo.vercel.app)
